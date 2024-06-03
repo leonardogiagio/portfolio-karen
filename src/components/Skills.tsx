@@ -24,6 +24,14 @@ export function Skills() {
 			icon: "images/premiere.svg",
 		},
 		{
+			name: "InDesign",
+			icon: "images/indesign.svg",
+		},
+		{
+			name: "After Effects",
+			icon: "images/aftereffects.svg",
+		},
+		{
 			name: "Figma",
 			icon: "images/figma.svg",
 		},
@@ -55,7 +63,7 @@ export function Skills() {
 					</h2>
 					<p className="relative text-sm text-gray-700">
 						Designer | Illustrator | Photoshop | Premiere
-						| Figma | Blender | Canva | Cap Cut
+						InDesign | After Effects | Figma | Blender | Canva | Cap Cut
 					</p>
 					<div className="absolute left-1/2 top-3 z-0 h-10 w-10 rounded-lg bg-blue-400/10" />
 				</div>
