@@ -1,0 +1,14 @@
+td .truncate-text {
+	display: block;
+	width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+@media only screen and (max-width: 600px) {
+	td .truncate-text {
+		max-width: 150px;
+	}
+
+}
