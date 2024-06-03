@@ -1,5 +1,5 @@
 export function About() {
-	const imageUrl = '/images/avatar.jpg';
+	const imageUrl = 'images/avatar.jpg';
 	const altText = 'Profile Picture';
 
 	return (
