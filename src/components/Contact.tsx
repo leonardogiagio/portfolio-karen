@@ -22,10 +22,10 @@ export function Contact() {
 
     emailjs
       .sendForm(
-        "service_pbhpchh",
-        "template_j77ltaw",
+        "service_w5lf0m4",
+        "template_of1kmpp",
         form.current,
-        "8ehpDTl-nXLrNNhU3"
+        "83K9XP_zR0KqO0KXU"
       )
       .then(
         () => {
